@@ -1,0 +1,18 @@
+import java.lang.*;
+import java.scanner;
+class name {
+public static void main (String args[])
+{
+scanner obj =new scanner(System.in);
+System.out.println("Enter  A value:");
+int a=obj.nextInt();
+System.out.println("Enter  B value:");
+int b=obj.nextInt();
+System.out.println("Enter  C value:");
+int c=obj.nextInt();
+System.out.println("Enter  D value:");
+int d=obj.nextInt();
+int e=a+b+c+d;
+System.out.println("toatl value"a+b+c+d);
+}
+}
